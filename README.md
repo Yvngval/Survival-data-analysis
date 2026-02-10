@@ -96,6 +96,7 @@ The analysis allows to:
 ## Author
 
 [@thmsgo18](https://github.com/thmsgo18)
+[@Yvngval](https://github.com/Yvngval)
 
 ## Data Source
 
